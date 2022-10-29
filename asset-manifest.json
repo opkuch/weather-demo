@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/weather-demo/static/css/main.f4597467.css",
+    "main.js": "/weather-demo/static/js/main.1689486e.js",
+    "static/js/893.8b0a47d5.chunk.js": "/weather-demo/static/js/893.8b0a47d5.chunk.js",
+    "static/js/171.bc41733f.chunk.js": "/weather-demo/static/js/171.bc41733f.chunk.js",
+    "static/js/130.80401003.chunk.js": "/weather-demo/static/js/130.80401003.chunk.js",
+    "static/media/snow.svg": "/weather-demo/static/media/snow.d5e62ff41b4b02be49a93ff76d2b85e6.svg",
+    "static/media/rainy.svg": "/weather-demo/static/media/rainy.34c6f34448112d0a9a644cd0d421995e.svg",
+    "static/media/sunny.svg": "/weather-demo/static/media/sunny.969d0829ce7242fe4b38a66fa97a73e5.svg",
+    "index.html": "/weather-demo/index.html",
+    "static/media/cloudy.svg": "/weather-demo/static/media/cloudy.987678cabbc7b9f06930e94d6253e49b.svg",
+    "static/media/water-outline.svg": "/weather-demo/static/media/water-outline.b9c20133598e542d2f91b4bd43e00850.svg",
+    "static/media/back-arrow.svg": "/weather-demo/static/media/back-arrow.1b2616bfb09dd1d005fe895c0753ac6a.svg",
+    "static/media/location.svg": "/weather-demo/static/media/location.032f71c4f25ef530b3c5b959da059552.svg",
+    "static/media/search-outline.svg": "/weather-demo/static/media/search-outline.4be0f579536375deb314ddb02b97de8a.svg",
+    "static/media/wind.svg": "/weather-demo/static/media/wind.d2a4a1fe8ac82ef136c5d7163b075554.svg",
+    "static/media/eye.svg": "/weather-demo/static/media/eye.b1238fb7eda76106bcfacd66eeefcaa7.svg",
+    "static/media/cloud.svg": "/weather-demo/static/media/cloud.6320a388771887c1a0cb0b6cb6bfa0ab.svg",
+    "main.f4597467.css.map": "/weather-demo/static/css/main.f4597467.css.map",
+    "main.1689486e.js.map": "/weather-demo/static/js/main.1689486e.js.map",
+    "893.8b0a47d5.chunk.js.map": "/weather-demo/static/js/893.8b0a47d5.chunk.js.map",
+    "171.bc41733f.chunk.js.map": "/weather-demo/static/js/171.bc41733f.chunk.js.map",
+    "130.80401003.chunk.js.map": "/weather-demo/static/js/130.80401003.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4597467.css",
+    "static/js/main.1689486e.js"
+  ]
+}
